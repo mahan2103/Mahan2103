@@ -97,5 +97,12 @@ GitHub, Jira, Salesforce
 ## 🌱 Currently Learning
 - Advanced Embedded Systems  
 - Network Monitoring (SNMP, TCP/IP)  
-- RTOS & System Design  
+- RTOS & System Design
+
+
+
+
+
+
+
                                                                                        
