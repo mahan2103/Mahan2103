@@ -80,7 +80,7 @@ GitHub, Jira, Salesforce
 - Developed sensor-based automation using microcontrollers  
 - Implemented reliable ON/OFF control logic  
 
----
+---        
 
 ### 🔹 Smart Helmet Safety System
 - Designed embedded safety monitoring with real-time alerts  
