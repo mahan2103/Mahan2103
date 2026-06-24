@@ -4,7 +4,7 @@
 📍 Germany (Regensburg / Beckum)                   
 🏢 Embedded Systems Intern – BEUMER Group  
 
----
+---                           
 
 ## 🔧 About Me
 I am an Embedded Systems Engineer with experience in **RTOS-based systems, networking protocols, and system diagnostics**.  
