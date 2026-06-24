@@ -57,7 +57,7 @@ MATLAB, Simulink, Keil uVision, LabVIEW, Git, AutoCAD
 **Workflow & Collaboration:**  
 GitHub, Jira, Salesforce  
 
----
+---                     
 
 ## 📂 Featured Projects
 
