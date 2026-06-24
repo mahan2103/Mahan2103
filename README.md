@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahan Hithalamakki Sundaresh
 
 🚀 Embedded Systems & Network Engineering  
-📍 Germany (Regensburg / Beckum)  
+📍 Germany (Regensburg / Beckum)                   
 🏢 Embedded Systems Intern – BEUMER Group  
 
 ---
