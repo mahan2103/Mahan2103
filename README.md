@@ -39,7 +39,7 @@ Currently working at **BEUMER Group (Airport Engineering)**, focusing on develop
 - Documented system behavior and test outputs  
 
 ---
-
+                                   
 ## 🧠 Skills
 
 **Programming:**  
